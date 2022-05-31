@@ -8,7 +8,7 @@ Soon I will be playing with robots🤖 and hardware to really get a good idea in
 
 I look forward to communicate with anyone that just wants to talk. If anyone could share ideas or suggestions, that would be cool. 
 
-I fyou wish to communicate, then please contact me at my email. Thank you!
+If you wish to communicate, then please contact me at my email. Thank you!
 
 See Y'all!
 
