@@ -1,16 +1,13 @@
-👋Yo what's up. I'm GM|Matrix. 
+Wassup everyone!
 
-And I am currently a 10th grader. I am a sincere and intellignet child that loves to program. 
+I'm GM|Matrix, a high schooler passionate about programming.
 
-So far I have mastered the Python programming langauge🐍 and have moved onto exploring the world of Java☕. I have gained a strong stance in developing webpages using HTML, CSS, and Javascript💻. 
+So far, I have learned Python, Java, C++, and Javascript. I am well familiar with HTML and CSS. I have made over 20 games so far (a few of which will be released here) and 
+have made websites for several organizations.
 
-Soon I will be playing with robots🤖 and hardware to really get a good idea in the world of computers.
+I am always ready to learn more about programming in the tech world. Feel free to reach out to me here on Git Hub.
 
-I look forward to communicate with anyone that just wants to talk. If anyone could share ideas or suggestions, that would be cool. 
-
-If you wish to communicate, then please contact me at my email. Thank you!
-
-See Y'all!
+Happy Coding!
 
 <!---
 GMMATRIX/GMMATRIX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
