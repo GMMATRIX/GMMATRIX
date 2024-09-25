@@ -1,4 +1,6 @@
-I like programming 💪![CodingGIF](https://github.com/user-attachments/assets/b48c3e47-94a2-4727-b1a1-5aa10a33a784)
+![CodingGIF (2)](https://github.com/user-attachments/assets/4a2ada2f-4fb7-4edd-9f51-8e7bcfa82e25)
+
+I like programming 💪⌨️
 
 
 <!---
